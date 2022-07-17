@@ -1,0 +1,20 @@
+.App {
+  font-family: arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+body {
+  background: #5c6e91;
+  color: #eeeded;
+}
+
+button {
+  height: 60px;
+  width: 200px;
+  font-size: 22px;
+  background-color: #8f384d;
+  color: #eeeded;
+  text-transform: uppercase;
+  cursor: pointer;
+}
